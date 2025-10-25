@@ -24,4 +24,5 @@ It also includes a simple and attractive **Flask web interface** for real-time t
   - `LABEL_1` → Spam
 
 ---
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b9a66901-315c-4736-9d58-e92e6120fa22" />
 
